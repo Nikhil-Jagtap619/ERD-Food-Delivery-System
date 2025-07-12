@@ -39,9 +39,6 @@ This step details the various one-to-one and one-to-many relationships between t
 * Customers placing orders.
 * Menus having multiple ratings.
 
-### Step 3: Adding Attributes
-Finally, specific attributes are added to each entity, with primary keys being underlined.
-
 ## Conclusion
 
 The article concludes by stating that the next logical step after creating the ERD is to convert this plan into an actual database.

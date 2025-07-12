@@ -6,16 +6,16 @@ This document provides a summary of the Entity Relationship Diagram (ERD) for an
 
 ## Key Components of the ERD:
 
-The ERD identifies nine core entities crucial to the Online Food Ordering System:
-User: Represents system users.
-Site Information: Stores details related to the overall system or site.
-Payment: Manages payment transactions
-Order: Records customer orders.
-Order Details: Contains specifics for each item within an order.
-Customer: Stores customer profiles.
-Rating: Handles customer feedback and ratings for menus/orders.
-Menu: Contains information about food items available for order.
-Menu Type: Categorizes different types of menus.
+* The ERD identifies nine core entities crucial to the Online Food Ordering System:
+*User: Represents system users.
+* Site Information: Stores details related to the overall system or site.
+* Payment: Manages payment transactions
+* Order: Records customer orders.
+* Order Details: Contains specifics for each item within an order.
+* Customer: Stores customer profiles.
+* Rating: Handles customer feedback and ratings for menus/orders.
+* Menu: Contains information about food items available for order.
+* Menu Type: Categorizes different types of menus.
 
 ## Attributes:
 

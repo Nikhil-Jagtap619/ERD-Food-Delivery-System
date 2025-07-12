@@ -2,7 +2,7 @@
 
 This document provides a summary of the Entity Relationship Diagram (ERD) for an Online Food Ordering System, as detailed by iNetTutor.com. This ERD serves as a foundational step for database creation, outlining the entities, their relationships, and attributes within a web and mobile-based e-commerce platform for food ordering..
 
-![Food Delivery System](https://github.com/Nikhil-Jagtap619/ERD-Food-Delivery-System/blob/main/fms.gif.gif)
+![Food Delivery System](fms.gif)
 
 ## Key Components of the ERD:
 

@@ -19,16 +19,16 @@ This document provides a summary of the Entity Relationship Diagram (ERD) for an
 
 ## Attributes:
 
-Each entity has specific attributes, with primary keys underlined and foreign keys linking related entities to maintain data integrity. The detailed attributes for each entity are:
-User: Includes user ID (primary key) and other relevant user details.
-Site: Information: Contains site info ID (primary key) and other site-specific data.
-Payment: Payment ID (primary key) and transaction details.
-Order: Order ID (primary key), customer ID (foreign key), and order specifics.
-Order Details: Order details ID (primary key), order ID (foreign key), menu ID (foreign key), and item-specific information.
-Customer: Customer ID (primary key) and customer profile details.
-Rating: Rating ID (primary key), customer ID (foreign key), menu ID (foreign key), and rating information.
-Menu: Menu ID (primary key), menu type ID (foreign key), and details about the food item.
+* Each entity has specific attributes, with primary keys underlined and foreign keys linking related entities to maintain data integrity. The detailed attributes for each entity are:
+* User: Includes user ID (primary key) and other relevant user details.
+* Site: Information: Contains site info ID (primary key) and other site-specific data.
+* Payment: Payment ID (primary key) and transaction details.
+* Order: Order ID (primary key), customer ID (foreign key), and order specifics.
+* Order Details: Order details ID (primary key), order ID (foreign key), menu ID (foreign key), and item-specific information.
+* Customer: Customer ID (primary key) and customer profile details.
+* Rating: Rating ID (primary key), customer ID (foreign key), menu ID (foreign key), and rating information.
+* Menu: Menu ID (primary key), menu type ID (foreign key), and details about the food item.
 
 ## Conclusion
-This ERD serves as a blueprint for developing the database schema for the online food ordering system.
+* This ERD serves as a blueprint for developing the database schema for the online food ordering system.
 

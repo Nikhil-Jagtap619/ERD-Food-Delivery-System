@@ -1,4 +1,4 @@
-# Summary of Online Food Ordering System ER Diagram
+# Online Food Ordering System ER Diagram
 
 This article from iNetTutor.com provides a step-by-step guide to creating an Entity Relationship Diagram (ERD) for an Online Food Ordering System. This system is described as a web and mobile-based e-commerce platform that enables organizations to post menus and accept customer orders. The ERD is crucial for establishing the database foundation.
 
